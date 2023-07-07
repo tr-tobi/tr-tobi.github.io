@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT-Sans:wght@100&display=swap");
+
+body {
+  background-color: #00afb9;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 5px solid #f07167;
+  border-radius: 50%;
+}
+header {
+  background-color: #f07167;
+}
+
+h1 {
+  font-family: "Roboto Mono";
+}
+h2 {
+  font-family: "Roboto Mono";
+  padding-left: 18px;
+}
+
+p {
+  padding: 20px;
+  font-family: "Pt Sans";
+}
+footer {
+  text-align: center;
+  font-size: x-small;
+}
+ol {
+  color: tomato;
+}
+ul {
+  color: #fed9b7;
+}
